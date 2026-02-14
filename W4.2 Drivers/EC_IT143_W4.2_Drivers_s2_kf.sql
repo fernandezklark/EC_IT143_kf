@@ -1,0 +1,2 @@
+-- Q: What is the total number of drivers?
+-- A: I will query the dbo.drivers table to count the rows.
