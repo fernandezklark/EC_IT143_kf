@@ -1,0 +1,2 @@
+-- Q: What is the total number of movies?
+-- A: I will query the dbo.Movies table to count the rows.
